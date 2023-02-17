@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/PraiseImmanuel?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PraiseImmanuel?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/PraiseImmanuel?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/PraiseImmanuel?style=social"> &nbsp;&nbsp; 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=800&lines=Hello!+I'm+Praise+Immanuel.;Welcome+to+my+Github+profile!" alt="Title"></img>
