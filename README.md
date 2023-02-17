@@ -46,7 +46,7 @@
 
 <div align="center">
   Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Samurai1979
+  &copy; 2022 PraiseImmanuel
 </div>
 
 
