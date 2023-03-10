@@ -10,7 +10,6 @@
 - 💳: My full name is **Praise Immanuel** 
 - 📚: I am a **Frontend Developer**
 - 🌍: I currently stay at **Minna City, Niger State, Nigeria**
-- 😅: I love writing Javascript codes.
 - 🧐: I'm interested in coding, teaching and watching K-dramas.
 - 😎: My quote is ***"whatever your hand finds to do; Do it with all your might"*** 
 
