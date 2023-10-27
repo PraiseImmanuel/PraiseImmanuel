@@ -8,10 +8,11 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 
 - 💳: My full name is **Praise Immanuel** 
-- 📚: I am a **Frontend Developer**
-- 🌍: I currently stay at **Minna City, Niger State, Nigeria**
-- 🧐: I'm interested in coding, teaching and watching K-dramas.
-- 😎: My Favorite quote is: ***"whatever your hand finds to do; Do it with all your might"*** 
+- 📚: I am a **Frontend Developer Extraordinaire** 🚀
+- 🌍: Nestled in the heart of **Nigeria**
+- 🕸️: Web Spider by day, **Turning lines of code into works of art**
+- 📺: K-Drama Enthusiast by night.
+- 😎: In Praise's Multiverse, the motto is clear:: ***"whatever your hand finds to do; Do it with all your might"*** 💪💯
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px" width="50px">   Some tools and languages 
 <img src="https://badges.aleen42.com/src/javascript.svg" />  <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/typescript.svg" />  <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/tailwindcss.svg" />
