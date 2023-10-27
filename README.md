@@ -7,9 +7,9 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 
-- 💳: My full name is **Praise Immanuel** 
-- 📚: I am a **Frontend Developer Extraordinaire** 🚀
-- 🌍: Nestled in the heart of **Nigeria**
+- 💳: My full name is __Praise Immanuel__ 
+- 📚: I am a __Frontend Developer Extraordinaire__ 🚀
+- 🌍: Nestled in the heart of ***Nigeria***
 - 🕸️: Web Spider by day, **Turning lines of code into works of art**
 - 📺: K-Drama Enthusiast by night.
 - 😎: In Praise's Multiverse, the motto is clear:: ***"whatever your hand finds to do; Do it with all your might"*** 💪💯
