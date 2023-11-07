@@ -15,7 +15,7 @@
 - 😎: In Praise's Multiverse, the motto is clear:: ***"whatever your hand finds to do; Do it with all your might"*** 💪💯
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px" width="50px">   Some tools and languages 
-<img src="https://badges.aleen42.com/src/javascript.svg" />  <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/typescript.svg" />  <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/tailwindcss.svg" />
+<img src="https://badges.aleen42.com/src/javascript.svg" />  <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/typescript.svg" />  <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/tailwindcss.svg" /> <img src='https://badges.aleen42.com/src/vitejs.svg' />  <img src='https://badges.aleen42.com/src/eslint.svg' /> <img src='https://badges.aleen42.com/src/photoshop.svg' /> <img src='https://badges.aleen42.com/src/cli.svg' />
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
