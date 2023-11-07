@@ -10,7 +10,7 @@
 - 💳: My full name is __Praise Immanuel__ 
 - 📚: I am a __Frontend Developer Extraordinaire__ 🚀
 - 🌍: Nestled in the heart of ***Nigeria***
-- 🕸️: Web Spider by day, **Turning lines of code into works of art**
+- 🕸️: Web Spider Man by day, **Turning lines of code into works of art**
 - 📺: K-Drama Enthusiast by night.
 - 😎: In Praise's Multiverse, the motto is clear:: ***"whatever your hand finds to do; Do it with all your might"*** 💪💯
 
